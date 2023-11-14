@@ -1,0 +1,683 @@
+[
+  {
+    "id": 1,
+    "title": "Metro Jayakarta Hotel & Spa",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 2,
+      "Baths": 2,
+      "Area": "2M",
+      "SmookingArea": true,
+      "Kitchen": true,
+      "Balcony": true
+    },
+    "status": "sale",
+    "type": "apartments",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1452&q=80",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 2,
+    "title": "Metro Jayakarta Hotel ",
+    "address": "NewYork, USA",
+    "facility": {
+      "Beds": 5,
+      "Baths": 33,
+      "Area": "3M",
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "sale",
+    "type": "houses",
+    "price": 95,
+    "image": [
+      "https://images.unsplash.com/photo-1682687220305-ce8a9ab237b1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "https://images.unsplash.com/photo-1615874694520-474822394e73?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "country": "VN",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 5,
+    "state": "North California",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 3,
+    "title": "Tran Duc Manh ",
+    "address": "Tran Duc Manh",
+    "facility": {
+      "Beds": 222,
+      "Baths": 25,
+      "Area": "5M",
+      "SmookingArea": true,
+      "Kitchen": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "commercial",
+    "price": 12,
+    "image": [
+      "https://images.unsplash.com/photo-1615874694520-474822394e73?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1661962841993-99a07c27c9f4?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "country": "VN",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 3,
+    "state": "North California",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 4,
+    "title": "Metro Jayakarta Hotel & Spa",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 1,
+      "Baths": 2,
+      "Area": "50M",
+      "SmookingArea": true,
+      "Kitchen": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "garages",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1698584200770-3838c3690a27?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 5,
+    "title": "lots for sale",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 33,
+      "Baths": 45,
+      "Area": "45M",
+      "SmookingArea": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "sale",
+    "type": "lots",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1699393393011-4f6f3e36a5c0?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 6,
+    "title": "Tran Duc Manh Test",
+    "address": "North NewYork",
+    "facility": {
+      "Beds": 33,
+      "Baths": 45,
+      "Area": "45M",
+      "SmookingArea": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "apartments",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1699388642049-d88d57cc7d4a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHx8",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 7,
+    "title": "lots for rent",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 33,
+      "Baths": 45,
+      "Area": "45M",
+      "SmookingArea": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "lots",
+    "price": 75,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1698846876562-52cdc02883b1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHx8",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 8,
+    "title": "Metro Jayakarta Hotel & Spa",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 2,
+      "Baths": 2,
+      "Area": "2M",
+      "SmookingArea": true,
+      "Kitchen": true,
+      "Balcony": true
+    },
+    "status": "sale",
+    "type": "apartments",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1682686581776-b6ebee7c150e?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw2fHx8ZW58MHx8fHx8",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 9,
+    "title": "Metro Jayakarta Hotel ",
+    "address": "NewYork, USA",
+    "facility": {
+      "Beds": 5,
+      "Baths": 33,
+      "Area": "3M",
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "sale",
+    "type": "houses",
+    "price": 95,
+    "image": [
+      "https://images.unsplash.com/photo-1694950888587-7dc43b3f30c8?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3fHx8ZW58MHx8fHx8",
+      "https://images.unsplash.com/photo-1615874694520-474822394e73?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "country": "VN",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 5,
+    "state": "North California",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 10,
+    "title": "Tran Duc Manh ",
+    "address": "Tran Duc Manh",
+    "facility": {
+      "Beds": 222,
+      "Baths": 25,
+      "Area": "5M",
+      "SmookingArea": true,
+      "Kitchen": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "commercial",
+    "price": 12,
+    "image": [
+      "https://images.unsplash.com/photo-1699354511301-ec6be76db29f?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4fHx8ZW58MHx8fHx8",
+      "https://plus.unsplash.com/premium_photo-1661962841993-99a07c27c9f4?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "country": "VN",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 3,
+    "state": "North California",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 11,
+    "title": "Metro Jayakarta Hotel & Spa",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 1,
+      "Baths": 2,
+      "Area": "50M",
+      "SmookingArea": true,
+      "Kitchen": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "garages",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1698725224250-afb10355c2c4?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 12,
+    "title": "lots for sale",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 33,
+      "Baths": 45,
+      "Area": "45M",
+      "SmookingArea": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "sale",
+    "type": "lots",
+    "price": 75,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1686363855913-c1a90ff5597c?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 13,
+    "title": "Tran Duc Manh Test",
+    "address": "North NewYork",
+    "facility": {
+      "Beds": 33,
+      "Baths": 45,
+      "Area": "45M",
+      "SmookingArea": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "sale",
+    "type": "apartments",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1682685796444-acc2f5c1b7b6?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxMXx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 14,
+    "title": "lots for rent",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 33,
+      "Baths": 45,
+      "Area": "45M",
+      "SmookingArea": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "lots",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1699727152382-8ce951c1caa4?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMnx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 15,
+    "title": "Metro Jayakarta Hotel & Spa",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 2,
+      "Baths": 2,
+      "Area": "2M",
+      "SmookingArea": true,
+      "Kitchen": true,
+      "Balcony": true
+    },
+    "status": "sale",
+    "type": "apartments",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1693234928596-7052022c15a8?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 16,
+    "title": "Metro Jayakarta Hotel ",
+    "address": "NewYork, USA",
+    "facility": {
+      "Beds": 5,
+      "Baths": 33,
+      "Area": "3M",
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "sale",
+    "type": "houses",
+    "price": 95,
+    "image": [
+      "https://images.unsplash.com/photo-1693407549523-9a75912e828b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1615874694520-474822394e73?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "country": "VN",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 5,
+    "state": "North California",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 17,
+    "title": "Tran Duc Manh ",
+    "address": "Tran Duc Manh",
+    "facility": {
+      "Beds": 222,
+      "Baths": 25,
+      "Area": "5M",
+      "SmookingArea": true,
+      "Kitchen": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "commercial",
+    "price": 12,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1696799145894-1eaae8a15ba1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1661962841993-99a07c27c9f4?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "country": "VN",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 3,
+    "state": "North California",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 18,
+    "title": "Metro Jayakarta Hotel & Spa",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 1,
+      "Baths": 2,
+      "Area": "50M",
+      "SmookingArea": true,
+      "Kitchen": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "garages",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1682695796795-cc287af78a2b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 19,
+    "title": "lots for sale",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 33,
+      "Baths": 45,
+      "Area": "45M",
+      "SmookingArea": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "sale",
+    "type": "lots",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1699637341383-8a67b4d1adf3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxN3x8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 20,
+    "title": "Tran Duc Manh Test",
+    "address": "North NewYork",
+    "facility": {
+      "Beds": 33,
+      "Baths": 45,
+      "Area": "45M",
+      "SmookingArea": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "apartments",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1699562006888-48a14b765066?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxOHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  },
+  {
+    "id": 21,
+    "title": "lots for rent",
+    "address": "North NewYork, USA",
+    "facility": {
+      "Beds": 33,
+      "Baths": 45,
+      "Area": "45M",
+      "SmookingArea": true,
+      "Balcony": true,
+      "Wifi": true,
+      "ParkingArea": true
+    },
+    "status": "rent",
+    "type": "lots",
+    "price": 75,
+    "image": [
+      "https://images.unsplash.com/photo-1699606251390-f25fee318176?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxOXx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+    ],
+    "country": "USA",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "rating": 4.5,
+    "state": "North Carolina",
+    "agent": {
+      "name": "Hussain Ahmed",
+      "phone": "+1 234 567 890",
+      "address": "North Carolina, USA",
+      "properties": 10
+    }
+  }
+]
